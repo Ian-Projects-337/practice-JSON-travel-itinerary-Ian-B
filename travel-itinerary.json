@@ -1,0 +1,30 @@
+{
+  "trip": "Scotland",
+  "Travelers": [
+    {
+      "name": "name1",
+      "contact": {
+        "email": "email@gmial.com",
+        "number": "123-456-7890"
+      }
+    },
+    {
+      "name": "name2",
+      "contact": {
+        "email": "email@gmial.com",
+        "number": "123-456-7890"
+      }
+    }
+  ],
+  "Destinations": {
+    "locaiton": "place",
+    "arrival": "arrival time",
+    "depature": "departure time",
+    "activities": [
+      {
+        "title": "location",
+        "time": "scheduled time"
+      }
+    ]
+  }
+}
