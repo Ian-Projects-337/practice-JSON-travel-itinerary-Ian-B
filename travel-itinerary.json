@@ -23,7 +23,9 @@
     "activities": [
       {
         "title": "location",
-        "time": "scheduled time"
+        "time": "scheduled time",
+        "location":"St.louis"
+      
       }
     ]
   }
